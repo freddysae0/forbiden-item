@@ -19,6 +19,9 @@ body {
   align-items: center;
   justify-content: center;
 }
+h3 {
+  color: rgb(89, 16, 148);
+}
 .cigar {
   margin-bottom: 2%;
   position: absolute;
